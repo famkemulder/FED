@@ -3,6 +3,8 @@
 /**************/
 *, *::after, *::before {
   box-sizing:border-box;  
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -28,4 +30,15 @@
 /****************/
 
 /* jouw code */
+header {
+	background: rgb(1, 107, 220);
+}
+
+header img {
+	width: 40%;
+}
+
+section imput {
+	
+}
 
