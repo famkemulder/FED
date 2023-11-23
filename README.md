@@ -58,6 +58,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Voor de toegankelijkheidstest heb ik verschillende disabilities getest op mijn gekozen site. Ik heb een blur-bril opgedaan waarmee ik het scherm slecht kon zien, maar ik heb ook elastiekjes om mijn vinngers gedaan om te kijken hoe het is om een motorieke beperking te hebben. Daarnaast heb ik ook nog een test afgenomen met een screenreader. Hiermee heb ik gekeken hoe het is om met deze screenreader te navigeren over mijn site. 
+  
+  Blur bril
+  - Letters zijn onleesbaar
+  - Grotere koppen zijn enigszins te ontcijferen
+  - Plaatjes zijn wazig te zien, maar je kan er niet uithalen waar het over gaat
+
+  Motorieke beperking (elastiekjes om je vingers)
+  - Scrollen over de touchpad gaat redelijk
+  - Inzoomen is onmogelijk met één hand
+  - Ergens op klikken is lastig
+
+
+  VoiceOver test ticketmaster
+  - Featured kan je niet komen
+  - Menu is makkelijk uit te vouwen met VoiceOver
+  - Kalender spreekt elke datum uit, springt automatisch door naar volgende maand aan het einde van de vorige maand, is moeilijk om naar ‘apply’ te komen onder aan de kalender.
+  - Inloggen is vrij easy, makkelijk te typen en je komt makkelijk bij de inlog knop, geeft goed aan als je iets verkeerd hebt ingevuld of als een veld verplicht is.
+  - Headings is elk mogelijke artiest, niet per se kopjes. 
+
 </details>
 
 
@@ -88,8 +108,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Dit ging er goed en/of fout
+  Ik vond het persoonlijk lastig om weer te beginnen met flexbox. Uiteindelijk is het wel gelukt met de oefening, maar ik wist eerst niet meer waar ik moest beginnen. Het hamburgermenu snapte ik zelf helemaal niet. Deze opdracht heb ik samen met Madelief gemaakt en uiteindelijk zijn we er wel uitgekomen, maar ik vond het erg lastig en ik snap eigenlijk nog steeds niet helemaal wat ik gedaan heb om het te laten werken. Ik heb een start gemaakt met mijn website en heb de navigatie in de html gezet. Verder dan dat ben ik op dit moment nog niet gekomen omdat ik vooral wilde oefenen met de opdrachten. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
